@@ -31,7 +31,7 @@ Aspiring Cloud & IT Professional interested in Cloud Computing, Linux, Docker, a
 - Docker & Containerization
 
 ## Connect With Me
-- LinkedIn: linkedin.com/in/vigneshwar-m-a2005230a## Hi there 👋
+- LinkedIn: linkedin.com/in/vigneshwar-m-a2005230a## 
 
 <!--
 **vignesh-cloud1/vignesh-cloud1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
